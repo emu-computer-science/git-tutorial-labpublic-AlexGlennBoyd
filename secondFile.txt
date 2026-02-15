@@ -1,3 +1,4 @@
 This is the initial contents
-of the second file that comprises (userB's change)
+of the second file that comprises (userA's change)(userB's change)
+>>>>>>> 86318b334bfc197d86fa4d52c62c82754864076c
 our most excellent project.
